@@ -2,12 +2,13 @@
 
 # Hey, I'm Aadi 👋
 
-CS student at the University of Toronto passionate about building things at the intersection of AI, quantitative finance, and full-stack engineering.
+CS & Mathematics student at the University of Toronto, building at the intersection of AI, quant finance, and full-stack engineering. Currently working on an autonomous trading bot for Polymarket weather derivative markets.
 
-I've won hackathons for best use of Gemini API and best AI implementation, and I spend most of my time working on trading systems, computer vision apps, and tools that automate things that probably shouldn't be automated.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadio7/)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/aadi104610)
 [![Email](https://img.shields.io/badge/aadi104610@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aadi104610@gmail.com)
-[![Location](https://img.shields.io/badge/Toronto,_ON-grey?style=flat-square)](https://github.com/AadiXD200)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AadiXD200&show_icons=true&theme=dark&hide_border=true)
 
 </div>
 
@@ -47,11 +48,3 @@ I've won hackathons for best use of Gemini API and best AI implementation, and I
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-### Hackathon wins
-
-🏆 **Best Application of Google Gemini API** — UofT Hacks: Hack or Treat
-
-🏆 **Best AI Implementation (Google Track)** — Hack Canada 2026
