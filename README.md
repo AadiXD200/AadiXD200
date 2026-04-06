@@ -8,8 +8,7 @@ CS & Mathematics student at the University of Toronto, building at the intersect
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/aadi104610)
 [![Email](https://img.shields.io/badge/aadi104610@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aadi104610@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AadiXD200&show_icons=true&theme=dark&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AadiXD200&layout=compact&theme=dark)
 </div>
 
 ---
