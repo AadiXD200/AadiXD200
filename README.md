@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Aadi 👋
+# AADI CHAUHAN
 
 **CS & Mathematics @ University of Toronto · Toronto, ON**
 
