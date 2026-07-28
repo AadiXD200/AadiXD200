@@ -22,7 +22,7 @@ Right now I'm running an autonomous trading bot on Polymarket's weather derivati
 
 ---
 
-## 🛠 Stack
+## Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Right now I'm running an autonomous trading bot on Polymarket's weather derivati
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
