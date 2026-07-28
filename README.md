@@ -16,6 +16,8 @@ I build at the intersection of **AI, quantitative finance, and full-stack engine
 
 Right now I'm running an autonomous trading bot on Polymarket's weather derivative markets: multi-model forecasts, Kelly-sized positions, live order execution, no human in the loop. Most of what I build starts as a question I couldn't find a good answer to.
 
+🏆 **Two hackathon wins** — Best Implementation of AI (Google Track, Hack Canada 2026) and Best Gemini API (UofT Hacks).
+
 **Currently looking for:** SWE / quant internships · **Always up for:** hackathons and anything that ships.
 
 ---
@@ -85,12 +87,13 @@ Open replication of the **Unexpected Government Receivables** quant signal using
 
 ### 🏛️ Civica
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Team](https://img.shields.io/badge/TEAM_BUILD-9f8fe8?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Winner](https://img.shields.io/badge/🏆_Google_Track_Winner-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Policy Stress Tester** — simulate how proposed policy holds up under pressure before it ever reaches the real world. Python modelling core with a TypeScript interface on top.
+**🏆 Best Implementation of AI, Google Track — Hack Canada 2026.** A multi-agent engine that stress-tests Canadian policy before it ships: 8 domain specialists, then 50 demographically grounded validators built on StatsCan data, then a coordinator synthesis. FastAPI + SSE streaming.
 
-[![View Repo](https://img.shields.io/badge/→%20View%20Repo-9f8fe8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlok-Ippala/Civica)
+[![Devpost](https://img.shields.io/badge/📄%20Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/civica-s8adcq)
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlok-Ippala/Civica)
 
 </td>
 <td width="50%" valign="top">
