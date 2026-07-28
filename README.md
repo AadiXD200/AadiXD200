@@ -1,6 +1,6 @@
 <div align="center">
 
-# AADI CHAUHAN
+# Hey, I'm Aadi 👋
 
 **CS & Mathematics @ University of Toronto · Toronto, ON**
 
@@ -12,19 +12,11 @@
 
 ---
 
-```python
-aadi = {
-    "location"     : "Toronto, ON",
-    "degree"       : "CS & Mathematics @ University of Toronto",
-    "building"     : "Polymarket weather bot — autonomous quant trading",
-    "passions"     : ["quant finance", "applied ML", "computer vision", "full-stack"],
-    "always_up_for": "hackathons, market inefficiencies, and anything that ships"
-}
-```
+I build at the intersection of **AI, quantitative finance, and full-stack engineering** — ensemble forecasting models, real-time computer vision, SEC filing pipelines, live trading execution.
 
-> I build at the intersection of **AI, quantitative finance, and full-stack engineering**.
-> Ensemble forecasting models, real-time computer vision, SEC filing pipelines, live trading execution.
-> The common thread: **I take things all the way to production.**
+Right now I'm running an autonomous trading bot on Polymarket's weather derivative markets: multi-model forecasts, Kelly-sized positions, live order execution, no human in the loop. Most of what I build starts as a question I couldn't find a good answer to.
+
+**Currently looking for:** SWE / quant internships · **Always up for:** hackathons and anything that ships.
 
 ---
 
