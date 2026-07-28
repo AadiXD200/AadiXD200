@@ -57,40 +57,40 @@ Right now I'm running an autonomous trading bot on Polymarket's weather derivati
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ Civica
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Team](https://img.shields.io/badge/TEAM_BUILD-9f8fe8?style=flat-square&logoColor=white)
-
-**Policy Stress Tester** — simulate how proposed policy holds up under pressure before it ever reaches the real world. Python modelling core with a TypeScript interface on top.
-
-[![View Repo](https://img.shields.io/badge/→%20View%20Repo-9f8fe8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlok-Ippala/Civica)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎛️ Reaper AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![DAW](https://img.shields.io/badge/Reaper_DAW-d4537e?style=flat-square&logoColor=white)
-![Team](https://img.shields.io/badge/TEAM_BUILD-9f8fe8?style=flat-square&logoColor=white)
-
-An AI assistant that **lives inside the Reaper DAW** — describe the track you want in one prompt and it builds the music for you. Prompt to arrangement, without leaving your session.
-
-[![View Repo](https://img.shields.io/badge/→%20View%20Repo-d4537e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlok-Ippala/Reaper-AI)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 📈 Polymarket Weather Bot
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![ML](https://img.shields.io/badge/Ensemble_ML-d85a30?style=flat-square&logoColor=white)
 ![Live](https://img.shields.io/badge/LIVE_EXECUTION-1d9e75?style=flat-square&logoColor=white)
 
 Autonomous quant trading bot for Polymarket weather derivative markets. **Multi-model ensemble forecasting**, Kelly criterion position sizing, and live CLOB order execution. Real capital, real markets, fully unattended.
 
 [![View Repo](https://img.shields.io/badge/→%20View%20Repo-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/polymarket-weather-bot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 UGR Signal Replication
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Quant](https://img.shields.io/badge/Quant_Research-1d9e75?style=flat-square&logoColor=white)
+![Sharpe](https://img.shields.io/badge/EW_Sharpe_0.57_·_t=2.9-d85a30?style=flat-square&logoColor=white)
+
+Open replication of the **Unexpected Government Receivables** quant signal using only free public data. Rigorous v1 null result, v2 partial replication at **EW Sharpe 0.57 (t = 2.9)** — with the value-weighted null traced to size concentration rather than hidden and reported honestly.
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-1d9e75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/ugr-replication)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Civica
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Team](https://img.shields.io/badge/TEAM_BUILD-9f8fe8?style=flat-square&logoColor=white)
+
+**Policy Stress Tester** — simulate how proposed policy holds up under pressure before it ever reaches the real world. Python modelling core with a TypeScript interface on top.
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-9f8fe8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlok-Ippala/Civica)
 
 </td>
 <td width="50%" valign="top">
@@ -200,29 +200,18 @@ Reddit story → **vertical brainrot video**, fully automated. AI voiceover, wor
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Parallel Image Pipeline
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Systems](https://img.shields.io/badge/fork()%20+%20pipes-6E4C13?style=flat-square&logoColor=white)
-![CSC209](https://img.shields.io/badge/CSC209-ef9f27?style=flat-square&logoColor=white)
+### 🎛️ Reaper AI
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![DAW](https://img.shields.io/badge/Reaper_DAW-d4537e?style=flat-square&logoColor=white)
+![Team](https://img.shields.io/badge/TEAM_BUILD-9f8fe8?style=flat-square&logoColor=white)
 
-Parallel image filter chain in pure **C** — processes split across forked child processes communicating over pipes. Systems programming down to the syscall. No libraries, no shortcuts.
+An AI assistant that **lives inside the Reaper DAW** — describe the track you want in one prompt and it builds the music for you. Prompt to arrangement, without leaving your session.
 
-[![View Repo](https://img.shields.io/badge/→%20View%20Repo-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/csc209-a3-image-pipeline)
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-d4537e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlok-Ippala/Reaper-AI)
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AadiXD200&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiXD200&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165"/>
-
-</div>
 
 ---
 
