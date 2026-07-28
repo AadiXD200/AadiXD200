@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:3ECF8E&height=200&section=header&text=Aadi%20Chauhan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20%26%20Math%20%40%20UofT%20%C2%B7%20Toronto&descAlignY=58&descSize=18" width="100%"/>
+# Hey, I'm Aadi 👋
+
+**CS & Mathematics @ University of Toronto · Toronto, ON**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadio7/)
 [![Devpost](https://img.shields.io/badge/Devpost-Hackathons-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/aadi104610)
@@ -234,9 +236,7 @@ Parallel image filter chain in pure **C** — processes split across forked chil
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:4169E1&height=100&section=footer" width="100%"/>
-
 *If something catches your eye — star it, fork it, or just say hi.*
-**[aadi104610@gmail.com](mailto:aadi104610@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aadio7/) · [Devpost](https://devpost.com/aadi104610) · Toronto*
+**[aadi104610@gmail.com](mailto:aadi104610@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aadio7/) · [Devpost](https://devpost.com/aadi104610) · Toronto**
 
 </div>
