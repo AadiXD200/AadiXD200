@@ -1,47 +1,242 @@
 <div align="center">
 
-# Hey, I'm Aadi 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:3ECF8E&height=200&section=header&text=Aadi%20Chauhan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20%26%20Math%20%40%20UofT%20%C2%B7%20Toronto&descAlignY=58&descSize=18" width="100%"/>
 
-CS & Mathematics student at the University of Toronto, building at the intersection of AI, quant finance, and full-stack engineering. Currently working on an autonomous trading bot for Polymarket weather derivative markets.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadio7/)
+[![Devpost](https://img.shields.io/badge/Devpost-Hackathons-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/aadi104610)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadi104610@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadio7/)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/aadi104610)
-[![Email](https://img.shields.io/badge/aadi104610@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aadi104610@gmail.com)
-
+</div>
 
 ---
 
-### What I work with
+```python
+aadi = {
+    "location"     : "Toronto, ON",
+    "degree"       : "CS & Mathematics @ University of Toronto",
+    "building"     : "Polymarket weather bot — autonomous quant trading",
+    "passions"     : ["quant finance", "applied ML", "computer vision", "full-stack"],
+    "always_up_for": "hackathons, market inefficiencies, and anything that ships"
+}
+```
 
-**Languages**
+> I build at the intersection of **AI, quantitative finance, and full-stack engineering**.
+> Ensemble forecasting models, real-time computer vision, SEC filing pipelines, live trading execution.
+> The common thread: **I take things all the way to production.**
 
+---
+
+## 🛠 Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Civica
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Team](https://img.shields.io/badge/TEAM_BUILD-9f8fe8?style=flat-square&logoColor=white)
 
-**Frontend**
+**Policy Stress Tester** — simulate how proposed policy holds up under pressure before it ever reaches the real world. Python modelling core with a TypeScript interface on top.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-9f8fe8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlok-Ippala/Civica)
 
-**Backend & Data**
+</td>
+<td width="50%" valign="top">
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+### 🎛️ Reaper AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DAW](https://img.shields.io/badge/Reaper_DAW-d4537e?style=flat-square&logoColor=white)
+![Team](https://img.shields.io/badge/TEAM_BUILD-9f8fe8?style=flat-square&logoColor=white)
 
-**AI & ML**
+An AI assistant that **lives inside the Reaper DAW** — describe the track you want in one prompt and it builds the music for you. Prompt to arrangement, without leaving your session.
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-d4537e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shlok-Ippala/Reaper-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Polymarket Weather Bot
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Ensemble_ML-d85a30?style=flat-square&logoColor=white)
+![Live](https://img.shields.io/badge/LIVE_EXECUTION-1d9e75?style=flat-square&logoColor=white)
+
+Autonomous quant trading bot for Polymarket weather derivative markets. **Multi-model ensemble forecasting**, Kelly criterion position sizing, and live CLOB order execution. Real capital, real markets, fully unattended.
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/polymarket-weather-bot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ Performative
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![Winner](https://img.shields.io/badge/🏆_Best_Gemini_API-FFD700?style=flat-square&logoColor=black)
 
-**Tools**
+**🏆 Best Gemini API — UofT Hacks.** Your possessions are your password. YOLOv8 detects matcha/cameras/plushies through your webcam, Gemini transforms your photo into an aesthetic persona, then you play Pac-Man as your AI self.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AadiXD200/Performative)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 EDGAR Risk Tracker
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ_+_Redis-DC382D?style=flat-square&logoColor=white)
+
+Tracks year-over-year drift in **SEC 10-K Risk Factor disclosures**. Fastify API, BullMQ job queues, PostgreSQL, Dockerized. Surfaces what companies quietly started worrying about since last year.
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-3178C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/edgar-risk-tracker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 STATT
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
+Real-time **ER wait time tracker** — find the fastest emergency room near you. React 18 + TypeScript frontend, Supabase realtime backend, Google Maps integration for live routing.
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-3ECF8E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/STATT)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ CoffeeChat AI
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Gemini Live](https://img.shields.io/badge/Gemini_Live_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Multimodal](https://img.shields.io/badge/Voice_+_Webcam-9f8fe8?style=flat-square&logoColor=white)
+
+Live **multimodal AI networking coach**. Talk to a recruiter, mentor, or peer persona through the Gemini Live API — real-time voice *and* webcam — then get scored feedback on how you actually came across.
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/coffeechat-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 SceneU
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/PLpgSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+UofT campus **event discovery platform** — club dashboards, RSVPs, bookmarks, and AI-powered event import that reads a flyer image and fills the form for you. Real Postgres schema with PLpgSQL.
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-412991?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/sceneu-uoft-events)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Air Canvas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HSV](https://img.shields.io/badge/HSV_Tracking-85b7eb?style=flat-square&logoColor=white)
+
+**Draw in the air** with a colored pen. Real-time webcam HSV color tracking, multi-color canvas, eraser, adjustable brush size, PNG export. No touchscreen required — just a marker and a webcam.
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-5C3EE8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/air-canvas)
+
+</td>
+<td width="50%" valign="top">
+
+### 🥁 Air Drums
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Deployed](https://img.shields.io/badge/DEPLOYED-1d9e75?style=flat-square&logoColor=white)
+
+Browser-based **virtual drum kit** driven by webcam color detection. Wave two colored sticks, hit real drum zones, get real sound. Flask backend + JavaScript frontend, live on Vercel.
+
+[![Try it Live](https://img.shields.io/badge/🥁%20Try%20it%20Live-1d9e75?style=for-the-badge&logo=vercel&logoColor=white)](https://air-drums.vercel.app)
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/AIR_DRUMS)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Brainrot Generator
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![TTS](https://img.shields.io/badge/AI_TTS-d4537e?style=flat-square&logoColor=white)
+
+Reddit story → **vertical brainrot video**, fully automated. AI voiceover, word-timed captions, gameplay overlay, ffmpeg composition. Exports ready-to-post MP4s for TikTok, Reels, and Shorts.
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-d4537e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/brainrot-generator)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Parallel Image Pipeline
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Systems](https://img.shields.io/badge/fork()%20+%20pipes-6E4C13?style=flat-square&logoColor=white)
+![CSC209](https://img.shields.io/badge/CSC209-ef9f27?style=flat-square&logoColor=white)
+
+Parallel image filter chain in pure **C** — processes split across forked child processes communicating over pipes. Systems programming down to the syscall. No libraries, no shortcuts.
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-00599C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AadiXD200/csc209-a3-image-pipeline)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AadiXD200&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiXD200&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:4169E1&height=100&section=footer" width="100%"/>
+
+*If something catches your eye — star it, fork it, or just say hi.*
+**[aadi104610@gmail.com](mailto:aadi104610@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aadio7/) · [Devpost](https://devpost.com/aadi104610) · Toronto*
+
+</div>
